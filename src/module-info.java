@@ -1,0 +1,2 @@
+module educationCulture1 {
+}
